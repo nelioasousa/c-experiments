@@ -4,3 +4,4 @@
 - [C reference](https://en.cppreference.com/w/c)
 - [Effective Programming In C And C++](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/)
 - [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
+- [The Development of the C Language](https://www.bell-labs.com/usr/dmr/www/chist.pdf)
