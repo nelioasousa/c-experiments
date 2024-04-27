@@ -7,7 +7,7 @@ static int n;       // zero-initialized
 static int n = 10;  // first initialization
 
 
-// inline const int get(void) { return 2; }
+// inline int get(void) { return 2; }
 
 
 int main(void)
