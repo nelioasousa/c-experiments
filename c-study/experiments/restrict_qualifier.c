@@ -7,6 +7,7 @@
 // See:
 //     https://en.cppreference.com/w/c/language/restrict
 //     https://developers.redhat.com/blog/2020/06/02/the-joys-and-perils-of-c-and-c-aliasing-part-1
+//     https://developers.redhat.com/blog/2020/06/03/the-joys-and-perils-of-aliasing-in-c-and-c-part-2
 
 
 // Comments:
